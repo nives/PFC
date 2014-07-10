@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<catala_dialog>
+    <dialog id="0">Entrenador i simulador de IA</dialog>
+    <dialog id="1">Inici</dialog>
+    <dialog id="2">Configuracio</dialog>
+    <dialog id="3">Sortir</dialog>
+    <dialog id="4">Menu de configuracions</dialog>
+    <dialog id="5">Idioma</dialog>
+    <dialog id="6">Resolucio de la finestra</dialog>
+    <dialog id="7">Mode daltonisme</dialog>
+    <dialog id="8">Aplicar</dialog>
+    <dialog id="9">Cancel·lar</dialog>
+    <dialog id="10">Enrere</dialog>
+    <dialog id="11">Continuar</dialog>
+    <dialog id="12">Equip A</dialog>
+    <dialog id="13">Equip B</dialog>
+    <dialog id="14">Color de l'equip</dialog>
+    <dialog id="15">Porter</dialog>
+    <dialog id="16">Nombre de jugadors</dialog>
+    <dialog id="17">Jugador 1</dialog>
+    <dialog id="18">Jugador 2</dialog>
+    <dialog id="19">Jugador 3</dialog>
+    <dialog id="20">Jugador 4</dialog>
+    <dialog id="21">Si</dialog>
+    <dialog id="22">No</dialog>
+    <dialog id="23">Disseny</dialog>
+    <dialog id="24">No s'ha pogut carregar el disseny </dialog>
+    <dialog id="25">.</dialog>
+    <dialog id="26">Parar</dialog>
+    <dialog id="27">Estàs segur que vols sortir?</dialog>
+    <dialog id="28">Textura de l'equip</dialog>
+    <dialog id="29">Buit</dialog>
+    <dialog id="30">Impossible crear la connecció del servidor.</dialog>
+    <dialog id="31">Hi han jugadors buits. Vols continuar?</dialog>
+    <dialog id="32"></dialog>
+    <dialog id="33"></dialog>
+    <dialog id="34"></dialog>
+    <dialog id="35"></dialog>
+    <dialog id="36"></dialog>
+    <dialog id="37"></dialog>
+    <dialog id="38"></dialog>
+    <dialog id="39"></dialog>
+
+    <color id="0">Negre</color>
+    <color id="1">Vermell</color>
+    <color id="2">Blau</color>
+    <color id="3">Marro</color>
+    <color id="4">Verd</color>
+    <color id="5">Rosa</color>
+    <color id="6">Groc</color>
+
+    <texture id="0">Llis</texture>
+    <texture id="1">Ratllat</texture>
+    <texture id="2">Quadrat</texture>
+</catala_dialog>

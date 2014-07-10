@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<resolutions>
+    <resolution id="0">
+        <width>640</width>
+        <height>480</height>
+    </resolution>
+    <resolution id="1">
+        <width>800</width>
+        <height>600</height>
+    </resolution>
+    <resolution id="2">
+        <width>1024</width>
+        <height>768</height>
+    </resolution>
+    <resolution id="3">
+        <width>1152</width>
+        <height>864</height>
+    </resolution>
+    <resolution id="4">
+        <width>1280</width>
+        <height>960</height>
+    </resolution>
+    <resolution id="5">
+        <width>1400</width>
+        <height>1050</height>
+    </resolution>
+</resolutions>

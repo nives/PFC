@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<english_dialog>
+    <dialog id="0">AI Trainer and Simulator</dialog>
+    <dialog id="1">Start</dialog>
+    <dialog id="2">Configure</dialog>
+    <dialog id="3">Exit</dialog>
+    <dialog id="4">Configurations Menu</dialog>
+    <dialog id="5">Language</dialog>
+    <dialog id="6">Window resolution</dialog>
+    <dialog id="7">Color blindness mode</dialog>
+    <dialog id="8">Apply</dialog>
+    <dialog id="9">Cancel</dialog>
+    <dialog id="10">Back</dialog>
+    <dialog id="11">Continue</dialog>
+    <dialog id="12">Team A</dialog>
+    <dialog id="13">Team B</dialog>
+    <dialog id="14">Team color</dialog>
+    <dialog id="15">Goalkeeper</dialog>
+    <dialog id="16">Number of players</dialog>
+    <dialog id="17">Player 1</dialog>
+    <dialog id="18">Player 2</dialog>
+    <dialog id="19">Player 3</dialog>
+    <dialog id="20">Player 4</dialog>
+    <dialog id="21">Yes</dialog>
+    <dialog id="22">No</dialog>
+    <dialog id="23">Look and feel</dialog>
+    <dialog id="24">Unable to set </dialog>
+    <dialog id="25"> look and feel.</dialog>
+    <dialog id="26">Stop</dialog>
+    <dialog id="27">Are you sure you want to exit?</dialog>
+    <dialog id="28">Team Texture</dialog>
+    <dialog id="29">Empty</dialog>
+    <dialog id="30">Unable to create server connection.</dialog>
+    <dialog id="31">There are empty players. Do you want to continue?</dialog>
+    <dialog id="32"></dialog>
+    <dialog id="33"></dialog>
+    <dialog id="34"></dialog>
+    <dialog id="35"></dialog>
+    <dialog id="36"></dialog>
+    <dialog id="37"></dialog>
+    <dialog id="38"></dialog>
+    <dialog id="39"></dialog>
+
+    <color id="0">Black</color>
+    <color id="1">Red</color>
+    <color id="2">Blue</color>
+    <color id="3">Brown</color>
+    <color id="4">Green</color>
+    <color id="5">Pink</color>
+    <color id="6">Yellow</color>
+
+    <texture id="0">Plain</texture>
+    <texture id="1">Lined</texture>
+    <texture id="2">Squared</texture>
+</english_dialog>

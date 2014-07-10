@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<espanol_dialog>
+    <dialog id="0">Entrenador y simulador de IA</dialog>
+    <dialog id="1">Inicio</dialog>
+    <dialog id="2">Configuracion</dialog>
+    <dialog id="3">Salir</dialog>
+    <dialog id="4">Menu de configuracion Menu</dialog>
+    <dialog id="5">Idioma</dialog>
+    <dialog id="6">Resolucion de la ventana</dialog>
+    <dialog id="7">Modo daltonismo</dialog>
+    <dialog id="8">Aplicar</dialog>
+    <dialog id="9">Cancelar</dialog>
+    <dialog id="10">Atras</dialog>
+    <dialog id="11">Continuar</dialog>
+    <dialog id="12">Equipo A</dialog>
+    <dialog id="13">Equipo B</dialog>
+    <dialog id="14">Color del equipo</dialog>
+    <dialog id="15">Portero</dialog>
+    <dialog id="16">Numero de jugadores</dialog>
+    <dialog id="17">Jugador 1</dialog>
+    <dialog id="18">Jugador 2</dialog>
+    <dialog id="19">Jugador 3</dialog>
+    <dialog id="20">Jugador 4</dialog>
+    <dialog id="21">Si</dialog>
+    <dialog id="22">No</dialog>
+    <dialog id="23">Diseño</dialog>
+    <dialog id="24">No se ha podido cargar el diseño </dialog>
+    <dialog id="25">.</dialog>
+    <dialog id="26">Detener</dialog>
+    <dialog id="27">¿Estás seguro que quieres salir?</dialog>
+    <dialog id="28">Textura del equipo</dialog>
+    <dialog id="29">Vacio</dialog>
+    <dialog id="30">Imposible crear la conexión del servidor.</dialog>
+    <dialog id="31">Hay jugadores vacios. ¿Quieres continuar?</dialog>
+    <dialog id="32"></dialog>
+    <dialog id="33"></dialog>
+    <dialog id="34"></dialog>
+    <dialog id="35"></dialog>
+    <dialog id="36"></dialog>
+    <dialog id="37"></dialog>
+    <dialog id="38"></dialog>
+    <dialog id="39"></dialog>
+
+    <color id="0">Negro</color>
+    <color id="1">Rojo</color>
+    <color id="2">Azul</color>
+    <color id="3">Marron</color>
+    <color id="4">Verde</color>
+    <color id="5">Rosa</color>
+    <color id="6">Amarillo</color>
+
+    <texture id="0">Plano</texture>
+    <texture id="1">Rayado</texture>
+    <texture id="2">Cuadrado</texture>
+</espanol_dialog>
